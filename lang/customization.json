@@ -1,0 +1,89 @@
+{
+  "JOIN_MESSAGE_GUI_NAME": "§8Сообщения при входе",
+  "JOIN_MESSAGE_SELECTED_GUI_ITEM_NAME": "§b§lСообщение #%s",
+  "JOIN_MESSAGE_SELECTED_GUI_ITEM_LORE": [
+    "",
+    " %s",
+    "",
+    "§fУ вас §aвыбрано §fданное сообщение"
+  ],
+  "JOIN_MESSAGE_ACCESS_GUI_ITEM_NAME": "§b§lСообщение #%s",
+  "JOIN_MESSAGE_ACCESS_GUI_ITEM_LORE": [
+    "",
+    " %s",
+    "",
+    " §7Вам §aдоступно §fданное сообщение",
+    "",
+    "§7Нажмите, чтобы §eустановить §7сообщение"
+  ],
+  "JOIN_MESSAGE_DENY_GUI_ITEM_NAME": "§b§lСообщение #%s",
+  "JOIN_MESSAGE_DENY_GUI_ITEM_LORE": [
+    "",
+    " %s",
+    "",
+    " §7Доступно от: ",
+    "",
+    "§7Нажмите, чтобы §eкупить §7сообщение"
+  ],
+  "JOIN_MESSAGE_SELECT_COOLDOWN": "§6§lКАСТОМИЗАЦИЯ: §7Подождите §e%s сек. §7перед повторной сменой сообщения при входе",
+  "JOIN_MESSAGE_SELECT": "§6§lКАСТОМИЗАЦИЯ: §7Вы §aустановили §7сообщение при входе §a#%s",
+  "TITULS_CATEGORY_GUI_NAME": "§8Выбор категории титулов",
+  "TITULS_GUI_NAME": "§8Выбор титула",
+  "TITUL_CLEAR_NAME": "§4§l✗ Очистить",
+  "TITUL_CLEAR_LORE": [
+    "",
+    " §7Уберите установленный титул",
+    "",
+    "§7Нажмите, чтобы §eубрать §7титул"
+  ],
+  "TITUL_SELECTED_GUI_ITEM_NAME": "§b§lТитул: §e%s",
+  "TITUL_SELECTED_GUI_ITEM_LORE": [
+    "",
+    " §7Статус: §aвыбран",
+    ""
+  ],
+  "TITUL_ACCESS_GUI_ITEM_NAME": "§8Титул: %s",
+  "TITUL_ACCESS_GUI_ITEM_LORE": [
+    "",
+    " §7Статус: §aдоступен",
+    "",
+    "§7Нажмите, чтобы §eустановить §fтитул"
+  ],
+  "TITUL_DENY_GUI_ITEM_NAME": "§8Титул: %s",
+  "TITUL_DENY_GUI_ITEM_LORE": [
+    "",
+    " §fСтатус: §cне доступен",
+    " §fСтоимость: §e§l35 ℙ",
+    ""
+  ],
+  "TITULS_SYMBOL_CATEGORY_ITEM_NAME": "§b§lКатегория \"Символы\"",
+  "TITULS_EMOTIONAL_CATEGORY_ITEM_NAME": "§b§lКатегория \"Эмоции\"",
+  "TITULS_VEGETABLE_CATEGORY_ITEM_NAME": "§b§lКатегория \"Овощи\"",
+  "TITULS_SPRING_CATEGORY_ITEM_NAME": "§b§lКатегория \"Весна\"",
+  "TITULS_ANIME_CATEGORY_ITEM_NAME": "§b§lКатегория \"Аниме\"",
+  "TITULS_CARTOON_CATEGORY_ITEM_NAME": "§b§lКатегория \"Мультик\"",
+  "TITULS_DEATH_CATEGORY_ITEM_NAME": "§b§lКатегория \"Смерть\"",
+  "TITULS_EAT_CATEGORY_ITEM_NAME": "§b§lКатегория \"Еда\"",
+  "TITULS_GAMER_CATEGORY_ITEM_NAME": "§b§lКатегория \"Геймер\"",
+  "TITULS_HALLOWEEN_CATEGORY_ITEM_NAME": "§b§lКатегория \"Хеллоуин\"",
+  "TITULS_HYPE_CATEGORY_ITEM_NAME": "§b§lКатегория \"Хайп\"",
+  "TITULS_MAGIC_CATEGORY_ITEM_NAME": "§b§lКатегория \"Магия\"",
+  "TITULS_MARVEL_CATEGORY_ITEM_NAME": "§b§lКатегория \"Марвел\"",
+  "TITULS_WAR_CATEGORY_ITEM_NAME": "§b§lКатегория \"Война\"",
+  "TITULS_NEW_YEAR_CATEGORY_ITEM_NAME": "§b§lКатегория \"Новый Год\"",
+  "TITULS_SCHOOL_CATEGORY_ITEM_NAME": "§b§lКатегория \"Школа\"",
+  "TITULS_CATEGORY_ITEM_LORE": [
+    "§8www.AnimeWorld.net",
+    "",
+    " §7Титулы продаются за валюту §eрубли",
+    " §7Чтобы приобрести титул, нужно §e§l149 ℙ",
+    "",
+    "§7Нажмите, чтобы §eоткрыть §7меню"
+  ],
+  "TITUL_SELECT_COOLDOWN": "§6§lКАСТОМИЗАЦИЯ: §7Подождите §e%s сек. §7перед повторной сменой титула",
+  "TITUL_NOT_SELECTED": "§6§lКАСТОМИЗАЦИЯ: §7У вас §cне установлен §7титул",
+  "TITUL_CLEAR": "§6§lКАСТОМИЗАЦИЯ: §7Вы §cубрали §7установленный титул",
+  "TITUL_IS_SELECTED": "§6§lКАСТОМИЗАЦИЯ: §7 вас уже §aустановлен §7этот титул",
+  "TITUL_NO_COINS": "§6§lКАСТОМИЗАЦИЯ: §7Стоимость титула §e§l35 ℙ",
+  "TITUL_SELECT": "§6§lКАСТОМИЗАЦИЯ: §7Вы §aустановили §fтитул §e%s"
+}
