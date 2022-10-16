@@ -91,5 +91,11 @@
     "",
     "Наш IP: mc.NekoCloud.me",
     "Магазин: www.NekoCloud.me"
+    ],
+  "VKAPI_PING": [
+    "✔ ModuleVkBot - работает!",
+    ""
+    "- Время ответа до серверов VK: %s",
+    "- Core работает: %s"
     ]
 }
